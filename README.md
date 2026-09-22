@@ -6,7 +6,7 @@ Software Engineer & AI Engineer · CS Graduate (First Class Hons.) · Birmingham
 
 ## Currently
 - Building full-stack and machine learning projects alongside professional enterprise IT/device configuration work
-- Completed CompTIA Security+ and Network+ coursework, working toward the full certifications
+- Working through CompTIA Security+ and Network+ (badges earned to date; certification exams pending)
 - Sharpening AI engineering skills — model training, evaluation, and applied ML pipelines
 
 ## Pinned projects
@@ -33,4 +33,4 @@ https://github.com/user-attachments/assets/4d0fee50-a8d7-4927-a7c8-cd18b9e8955b
 </details>
 
 ## Stack
-`C#` `Python` `TypeScript` `SQL` `Java` — `Next.js` `React` `Flask` — `Unity` — `Azure` `Git`
+`C#` `Python` `SQL` `Java` — `Next.js` `React` `Flask` — `Unity` — `Azure` `Git`
